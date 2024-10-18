@@ -2,5 +2,5 @@
 otadata,  data, ota,     0x9000,   0x2000,
 phy_init, data, phy,     0xb000,   0x1000,
 nvs,      data, nvs,     0xc000,   4M,
-ota_0,    app,  ota_0,   0x40c000, 4M,
-ota_1,    app,  ota_1,   0x80c000, 4M,
+ota_0,    app,  ota_0,   0x410000, 4M,
+ota_1,    app,  ota_1,   0x810000, 4M,
